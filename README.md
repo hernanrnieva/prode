@@ -2,7 +2,7 @@
 
 ## Tests
 
-Run below command in root directory
+Run below command in root directory:
 
 ```bash
 npm test
