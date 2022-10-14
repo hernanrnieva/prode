@@ -1,7 +1,7 @@
 import 'mocha'
 import { expect } from 'chai'
-import Match from '../../src/model/Match'
-import Result from '../../src/model/Result'
+import Match from '../../../src/model/Match'
+import Result from '../../../src/model/Result'
 
 describe("Result", () => {
   const m = new Match('local', 'visit')

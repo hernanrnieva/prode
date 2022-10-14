@@ -1,6 +1,6 @@
 import 'mocha'
 import { expect } from 'chai'
-import Match from '../../src/model/Match'
+import Match from '../../../src/model/Match'
 
 describe("Match", () => {
   describe("creation", () => {

@@ -1,7 +1,7 @@
 import 'mocha'
 import { expect } from 'chai'
-import Date from '../../src/model/Date'
-import Match from '../../src/model/Match'
+import Date from '../../../src/model/Date'
+import Match from '../../../src/model/Match'
 
 describe("Date", () => {
   const d = new Date('test')
