@@ -37,6 +37,7 @@ body {
   background-repeat: no-repeat;
   justify-content: space-around;
   align-content: space-around;
+  align-items: center;
 }
 
 .texts {
