@@ -139,8 +139,13 @@ td {
 .td-ps {
   text-align: center;
 }
+
 .td-pos {
   text-align: center;
+  font-weight: bold;
+}
+
+.td-nam {
   font-weight: bold;
 }
 
