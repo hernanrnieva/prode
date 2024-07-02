@@ -138,6 +138,8 @@ td {
 
 .td-ps {
   text-align: center;
+  white-space: pre;
+  font-variant-numeric: tabular-nums;
 }
 
 .td-pos {
